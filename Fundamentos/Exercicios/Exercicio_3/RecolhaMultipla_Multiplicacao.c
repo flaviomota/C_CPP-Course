@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void	main()
-{
 	/*** Criar um algoritmo que leia 3 números inteiros de uma só vez e
 	 * 	 que coloque o resultado da multiplicação entre os 3 numa variável
 	 * 	 própria, e por fim que apresente essa variável.
 	*/
 
+void	main()
+{
 	//Definicação de variáveis
 	int	valor1;
 	int	valor2;

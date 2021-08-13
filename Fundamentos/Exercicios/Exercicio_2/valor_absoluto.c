@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 //Criar um algoritmo que leia 2 notas e mostre o valor absoluto da diferença entre elas
+
 void	main()
 {
 	//Definição de variáveis
