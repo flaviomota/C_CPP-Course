@@ -71,7 +71,7 @@ int	main()
 	while (i < TAM)
 	{
 		j = 0;
-		while (j < TAM)
+		while (j < )
 		{
 			printf("Matriz[%d][%d] = %d\n", i, j, matriz[i][j]);
 			j++;
