@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //Invocar os cabeçalhos de funções a serem utilizadas
-int	devolve10();
+int		devolve10();
 float	decimal();
 
 //Função principal
